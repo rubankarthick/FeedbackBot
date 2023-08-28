@@ -27,7 +27,7 @@ Simple Telegram Bot To Get Feedback from users & Some Other Features.
 * `{id}` - User ID
 
 ## Deploy on Heroku
- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+ [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/rubankarthick/FeedbackBot)
 
 ## Deploy in your VPS
 
