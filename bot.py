@@ -6,6 +6,7 @@ from pyrogram import Client, filters
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup, User, Message
 
 Bot = Client(
+     name="FeedbackBot",
      api_id=API_ID,
      api_hash=API_HASH,
      bot_token=BOT_TOKEN
